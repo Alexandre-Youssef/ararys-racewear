@@ -1,0 +1,9 @@
+.btn-black{
+	background-color:  #000000 ;
+	padding:20px 25px;
+	border-radius: 30px;
+	color: white;
+	font-weight: 300;
+	font-family:'Poppins', sans-serif
+
+}
